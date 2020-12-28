@@ -1,7 +1,7 @@
 package xnetwork
 
 import (
-	"github.com/gofuncchan/util/xos"
+	"utils/xos"
 	"github.com/imroc/req"
 )
 

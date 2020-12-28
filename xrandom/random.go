@@ -3,7 +3,7 @@ package xrandom
 import (
 	"crypto/md5"
 	"fmt"
-	"github.com/gofuncchan/util/xdata"
+	"utils/xdata"
 	"io"
 	"math/rand"
 	"strconv"
